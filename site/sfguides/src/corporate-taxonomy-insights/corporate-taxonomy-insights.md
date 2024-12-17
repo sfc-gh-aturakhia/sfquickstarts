@@ -177,22 +177,8 @@ In this quickstart guide, you learned how we can leverage Snowflake's Cortex Sui
 ### Additional Resources
 - [Medium Blog](https://medium.com/snowflake/corporate-taxonomy-insights-building-a-comprehensive-ai-assisted-analysis-tool-33709b51d35c)
 - [Youtube Video](https://www.youtube.com/watch?v=rebNFMYAfu4)
-
-
-
-
-
-
-### What You Learned
-- creating steps and setting duration
-- adding code snippets
-- embedding images, videos, and surveys
-- importing other markdown files
-
-
-### Related Resources
--
-- #### [Snowpark Cortex LLM](https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions)
+- [Snowpark Cortex LLM](https://docs.snowflake.com/en/user-guide/snowflake-cortex/llm-functions)
+- [Streamlit Documentation](https://docs.streamlit.io/)
 
 
 
